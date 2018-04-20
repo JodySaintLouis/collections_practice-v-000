@@ -1,4 +1,5 @@
-def sort_array_asc
+def sort_array_asc(sort_array_asc)
+sort_array_asc =  a.sort_by { |a, b|  }
 end
 
 def sort_array_desc
