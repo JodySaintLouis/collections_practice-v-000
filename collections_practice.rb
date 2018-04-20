@@ -1,5 +1,5 @@
 def sort_array_asc(sort_array_asc)
-sort_array_asc =  a.sort_by { |number| -number  }
+sort_array_asc =  a.sort_by { |number, -number| }
 end
 
 def sort_array_desc
